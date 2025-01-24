@@ -1,1 +1,1 @@
-# CloudTrail_Anomaly_Detection
+# Anomaly Detection of Cloudtrail logs from flaws.cloud
